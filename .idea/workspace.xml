@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce0bfc00-7dae-476f-9b20-b9b07b232d47" name="Default Changelist" comment="" />
+    <list default="true" id="ce0bfc00-7dae-476f-9b20-b9b07b232d47" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +37,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Trójkąt">
+  <component name="RunManager" selected="Application.Tab">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Engine" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Tablice.Tab" />
+      <module name="Engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tablice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,9 +77,11 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Trójkąt" />
+      <item itemvalue="Application.Tab" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tab" />
         <item itemvalue="Application.Trójkąt" />
       </list>
     </recent_temporary>
@@ -81,5 +98,16 @@
       <updated>1569136613598</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
