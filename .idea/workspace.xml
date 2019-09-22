@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce0bfc00-7dae-476f-9b20-b9b07b232d47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/Tablice/Tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tablice/Tab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tab">
+  <component name="RunManager" selected="Application.List">
+    <configuration name="List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mix.List" />
+      <module name="Engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Engine" />
@@ -78,9 +91,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Trójkąt" />
       <item itemvalue="Application.Tab" />
+      <item itemvalue="Application.List" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.List" />
         <item itemvalue="Application.Tab" />
         <item itemvalue="Application.Trójkąt" />
       </list>
