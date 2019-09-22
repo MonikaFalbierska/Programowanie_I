@@ -12,7 +12,5 @@ public class List {
                 + "\n" + osoba3.getImię() + ", wiek " + osoba3.getWiek()
                 + "\n" + osoba4.getImię() + ", wiek " + osoba4.getWiek()
                 + "\n" + osoba5.getImię() + ", wiek " + osoba5.getWiek());
-
-
     }
 }

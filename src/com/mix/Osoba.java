@@ -3,22 +3,22 @@ package com.mix;
 public class Osoba {
     private String imię;
     private int wiek;
-    private boolean sex;
+    private char sex;
 
 
-
-    public Osoba(String imię, int wiek, boolean sex){
+    public Osoba(String imię, int wiek, char sex) {
         this.imię = imię;
         this.wiek = wiek;
         this.sex = sex;
 
 
     }
-public String getImię(){
+
+    public String getImię() {
         return imię;
     }
-    public int getWiek(){
+
+    public int getWiek() {
         return wiek;
     }
-    
 }
