@@ -1,4 +1,4 @@
-package com.Tablice;
+package com.tablice;
 
 import java.util.Random;
 

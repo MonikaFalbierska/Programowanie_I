@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce0bfc00-7dae-476f-9b20-b9b07b232d47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Tablice/Tab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tablice/Tab.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +49,11 @@
       </method>
     </configuration>
     <configuration name="Tab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Tablice.Tab" />
+      <option name="MAIN_CLASS_NAME" value="com.tablice.Tab" />
       <module name="Engine" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Tablice.*" />
+          <option name="PATTERN" value="com.tablice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
