@@ -15,7 +15,7 @@ public class Trójkąt {
                 System.out.print(' ');
                 System.out.print('*');
             System.out.println();
-        }*/
+        }
         System.out.println();
         for (int i = 1; i<7; i++) {
             for (int e = 1; e <= i; e++) {
@@ -26,7 +26,7 @@ public class Trójkąt {
                 }
                 System.out.println();
             }
-        }
+        }*/
         System.out.println();
         for (int i = 1; i<7; i++) {
             for (int e = 1; e <= i; e++){
@@ -36,7 +36,6 @@ public class Trójkąt {
                     System.out.print(' ');
                 }
             }
-
             System.out.println();
         }
     }
