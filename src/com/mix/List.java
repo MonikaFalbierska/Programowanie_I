@@ -11,7 +11,7 @@ public class List {
         Osoba osoba5 = new Osoba("Marcin",101,'m');
 
         new ArrayList<>();
-        
+
 
         System.out.println("Lista osób: "+ "\n" + osoba.getImię() + ", wiek " + osoba.getWiek()
                 + "\n" + osoba2.getImię() + ", wiek " + osoba2.getWiek()
